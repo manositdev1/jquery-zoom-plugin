@@ -1,6 +1,6 @@
 # วิธีการใช้งาน Jquery Zoom Plugin
 ```js
-วิธีการสร้าง Object
+//วิธีการสร้าง Object
 const _limitZoom = 10; // กำหนด limit การ zoom
 const ctrl = $(svg).svgPanZoom({
             events: {
@@ -24,7 +24,7 @@ const ctrl = $(svg).svgPanZoom({
 ```
 
 ```js
-Function การ Zoom
+//Function การ Zoom
 ZoomIn = ctrl.zoomIn();
 ZoomOut = ctrl.zoomOut();
 Reset = ctrl.reset();
