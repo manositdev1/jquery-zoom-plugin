@@ -26,7 +26,6 @@
 
     function zoomByCenter(ctrl,factor, animationTime) {
           const vb = ctrl.getViewBox(); // {x,y,width,height}
-
           const cx = vb.x + vb.width / 2;
           const cy = vb.y + vb.height / 2;
 
