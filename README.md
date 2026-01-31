@@ -29,4 +29,4 @@ ZoomIn = ctrl.zoomIn();
 ZoomOut = ctrl.zoomOut();
 Reset = ctrl.reset();
 ```
-![Ref Original]https://github.com/DanielHoffmann/jquery-svg-pan-zoom
+![Original ก่อนแก้ไข](https://github.com/DanielHoffmann/jquery-svg-pan-zoom)
